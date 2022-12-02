@@ -1,0 +1,14 @@
+this method behave as follow:
+
+1. Grayscale the image
+
+Gray scale conversion is a vital part of image processing. RGB or color information has a 3 dimensional property
+which makes signal processing so much bulky and heavy to remove this drawbacks gray scale conversion is necessary.
+
+1 bis. Blur the image
+
+Blur the image is a necessary step to remove noise from the image. Noise is a random signal which is not useful.
+
+
+
+
